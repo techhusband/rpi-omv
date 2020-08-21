@@ -24,3 +24,7 @@ apt install log2ram
 sudo reboot
 
 6. Install OMV
+https://pimylifeup.com/raspberry-pi-openmediavault/
+
+
+
